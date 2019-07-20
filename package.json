@@ -8,8 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@jeremyhamm/vue-slider": "^0.1.16",
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "vue-owl-carousel": "^2.0.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.0",
